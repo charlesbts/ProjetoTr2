@@ -9,9 +9,16 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Autenticação</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1> Entre com seu nome de usuário e senha, por favor:</h1>
+        Nome de usuário:
+        <input type="text" name="nomeUsuario" value="" />
+        <br />
+        Senha:
+        <input type="text" name="senha" value="" />
+        <br /><br/>
+        <input type="submit" value="Entrar" />
     </body>
 </html>
