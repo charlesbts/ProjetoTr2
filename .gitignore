@@ -3,6 +3,9 @@ nbproject/private/
 nbproject/project.properties
 nbproject/project.xml
 nbproject/private.properties
+nbproject/ant-deploy.xml
+nbproject/build-impl.xml
+nbproject/genfiles.properties
 nbbuild/
 dist/
 nbdist/
