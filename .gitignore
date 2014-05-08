@@ -1,7 +1,8 @@
 ### NetBeans ###
 nbproject/private/
-nbproject
-build/
+nbproject/project.properties
+nbproject/project.xml
+nbproject/private.properties
 nbbuild/
 dist/
 nbdist/
