@@ -1,0 +1,17 @@
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+build.xml
+MANIFEST.MF
+ant-deploy.xml
+build-impl.xml
+genfiles.properties
+project.properties
+project.xml
+private.properties
+ProjetoTr2.war
