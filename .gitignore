@@ -1,26 +1,17 @@
-#ant specific
- 
-#netbeans specific
-core
-nbproject/*
-!nbproject/project.properties
-!nbproject/project.xml
+### NetBeans ###
 nbproject/private/
 build/
 nbbuild/
 dist/
 nbdist/
 nbactions.xml
-nb-configuration.xml 
-
-#java specific
-*.class
- 
-#general swap/backup files
-*.so
-*.log
-*.out
-*~
-*.swp
-*.DS_Store
-*.lock
+nb-configuration.xml
+build.xml
+manifest.mf
+ant-deploy.xml
+build-impl.xml
+genfiles.properties
+project.properties
+project.xml
+private.properties
+ProjetoTr2.war
